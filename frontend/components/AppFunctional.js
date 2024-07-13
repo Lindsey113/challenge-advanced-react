@@ -26,8 +26,10 @@ export default function AppFunctional(props) {
       x = 1, y = 1
     } else if (index === 1) {
       x = 2, y = 1
-    } else if (index === 3) {
+    } else if (index === 2) {
       x = 3, y = 1
+    } else if(index === 3){
+      x = 1, y = 2
     } else if (index === 4){
       x = 2, y = 2
     } else if(index === 5) {
